@@ -3,7 +3,7 @@
     "HELLO": "Hey, I'm so glad to meet you! Do you want to tell Raj that you're talking to his bot? %[Tell him](postback:twitter)",
     "TELL HIM": "Let's tweet @ Raj so he knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Raj](http://bit.ly/2uGTJzQ)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
-    "HISTORY": "Raj has been in the Bay Area for about 20 years now, working in software companies from product management to marketing in various top tier companies - PeopleSoft, CapGemini, and now, Nutanix."
+    "HISTORY": "Raj has been in the Bay Area for about 20 years now, working in software companies from product management to marketing in various top tier companies - PeopleSoft, CapGemini, and now, Nutanix.",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, RajBot is out."
 }
