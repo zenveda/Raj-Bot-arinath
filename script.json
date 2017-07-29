@@ -4,9 +4,9 @@
     "TELL HIM": "Let's tweet @ Raj so he knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Raj](http://bit.ly/2uGTJzQ)",
     "I LOVE YOU": "Aww, shucks! I love you too dude!",
     "HISTORY": "Raj has been in the Bay Area for about 20 years now, working in software companies from product management to marketing in various top tier companies - PeopleSoft, CapGemini, and now, Nutanix.",
-    "EXPERIENCE": "Raj has been in the Bay Area for about 20 years now, working in software companies from product management to marketing in various top tier companies - PeopleSoft, CapGemini, and now, Nutanix. \n Tell me more about \n %[ Marketing Skills ](postback:MARKETING) \n %[ As a Manager ](postback:MANAGER)",
-    "MARKETING": "Raj loves to tell stories creatively, blending technology with emotion. Functionally speaking, he's most comfortable as a product marketer, but has well-rounded strengths in messaging/positioning, communications, demand generation, digital marketing and alliances.",
-    "MANAGER": "He is committed to growing high-performance teams, and works best in collaborative cultures.",
+    "EXPERIENCE": "Raj has been in the Bay Area for about 20 years now, working in software companies from product management to marketing in various top tier companies - PeopleSoft, CapGemini, and now, Nutanix. \n Tell me more about \n %[ Marketing Skills](postback:MARKETING_SKILLS) \n %[ As a Manager ](postback:AS_A_MANAGER)",
+    "MARKETING SKILLS": "Raj loves to tell stories creatively, blending technology with emotion. Functionally speaking, he's most comfortable as a product marketer, but has well-rounded strengths in messaging/positioning, communications, demand generation, digital marketing and alliances.",
+    "AS A MANAGER": "He is committed to growing high-performance teams, and works best in collaborative cultures.",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, RajBot is out."
 }
